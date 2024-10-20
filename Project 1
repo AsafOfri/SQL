@@ -1,0 +1,7 @@
+SQL Project 1 from Coursera
+
+select * from orderitem
+where discountlevel='b'
+and price>50 ;
+
+
